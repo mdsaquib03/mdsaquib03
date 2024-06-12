@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Md Saquib
-- 👀 I’m interested in Backend and Frontend of Web Application.
-- 🌱 I’m currently learning DevOps and Machine Learning
-- 💼 I’m looking to collaborate on Javascript oriented Web Application Project
-- 📫 Reach me at mdsaquib.dev@gmail.com
+- 👀 Interested in Backend and Frontend Web Application Development
+- 🌱 Currently learning DevOps and Machine Learning
+- 💼 Open to collaboration on JavaScript-oriented Web Application Projects
+- 🚀 Currently working as a Software Engineer
+- 📫 Reach me at: mdsaquib.dev@gmail.com
 
 
 <!--
