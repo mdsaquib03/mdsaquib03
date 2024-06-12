@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Md Saquib
-- 👀 I’m passionate about Software Development
-- 🌱 Currently working as a Software Engineer
-- 💼 Open to collaborating on freelance projects
+- 👀 I’m interested in Backend and Frontend of Web Application.
+- 🌱 I’m currently learning DevOps and Machine Learning
+- 💼 I’m looking to collaborate on Javascript oriented Web Application Project
 - 📫 Reach me at mdsaquib.dev@gmail.com
 
 
