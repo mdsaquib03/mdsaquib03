@@ -1,8 +1,8 @@
- 👋 Hi, I’m Md Saquib
- 👀 I’m passionate about Software Development
- 🌱 Currently working as a Software Engineer
- 💼 Open to collaborating on freelance projects
-📫 Reach me at mdsaquib.dev@gmail.com
+- 👋 Hi, I’m Md Saquib
+- 👀 I’m passionate about Software Development
+- 🌱 Currently working as a Software Engineer
+- 💼 Open to collaborating on freelance projects
+- 📫 Reach me at mdsaquib.dev@gmail.com
 
 
 <!--
